@@ -1,4 +1,6 @@
 """This module define the greetings according to age of people."""
+
+
 def define_greeting(age, name):
     if age > 18:
         return f'Namaste {name}'
